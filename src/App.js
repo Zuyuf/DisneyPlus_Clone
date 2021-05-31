@@ -6,7 +6,7 @@ import Detail from './components/detail';
 
 import './App.css';
 
-//
+// 
 
 function App() {
   return (
